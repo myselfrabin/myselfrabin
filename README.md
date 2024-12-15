@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabin Gaire</h1>
-<h2 align="center">On the mission to become the great hacker</h2> 
+<h2 align="center">On the mission to become the greatest hacker</h2> 
 <h3 align="center">A passionate cybersecurity and ethical hacking enthusiast from Nepal.</h3>
 
 <img align="right" alt="coding" width=400px src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"></img>
