@@ -2,7 +2,7 @@
 <h2 align="center">Becoming someone future generations will be proud of</h2> 
 <h3 align="center">A passionate cybersecurity and ethical hacking enthusiast from Nepal.</h3>
 
-<img align="right" alt="coding" width=400px src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"></img>
+<img  align="right" alt="coding"  width=400px src="https://private-user-images.githubusercontent.com/168954568/352051914-e26d1d6a-30ee-488e-90ca-11b3aa180148.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE4MTU1ODcsIm5iZiI6MTc1MTgxNTI4NywicGF0aCI6Ii8xNjg5NTQ1NjgvMzUyMDUxOTE0LWUyNmQxZDZhLTMwZWUtNDg4ZS05MGNhLTExYjNhYTE4MDE0OC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwNlQxNTIxMjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYjZhNmFiYWY2YzNkNmY4ODEwYTY1MTIxYzE0MDU1ZGI3YTdkZTM4Y2Y1YmM3OGNlYjIxOGNkYTE1YjE2ZDMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dNUNdwjkgHJEiH76xDFn5IOcR2XPxhnOpxVzSp1tvTc" style="display: block; margin: 0 auto;"></img>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myselfrabin" alt="myselfrabin" /></a> </p>
 
