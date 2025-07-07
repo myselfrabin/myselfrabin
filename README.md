@@ -4,8 +4,6 @@
 
 <img  align="right" alt="coding"  width=400px src="./hacker_image.gif" style="display: block; margin: 0 auto;"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myselfrabin" alt="myselfrabin" /></a> </p>
-
 - 🌱 I’m currently learning **MERN STACK,NETWORK SECURITY**
 
 - 📫 How to reach me **rabingaire0507@gmail.com**
