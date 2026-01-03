@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabin Gaire</h1>
 <h2 align="center">Becoming someone future generations will be proud of</h2> 
-<h3 align="center">A passionate cybersecurity and ethical hacking enthusiast from Nepal.</h3>
 
 <img  align="right" alt="coding"  width=400px src="./hacker_image.gif" style="display: block; margin: 0 auto;"/>
 
