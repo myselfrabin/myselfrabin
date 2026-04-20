@@ -15,7 +15,7 @@ visitor@github:~$ whoami
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-00ff88?style=flat-square&labelColor=0d1117)
 ![CTF](https://img.shields.io/badge/CTF-Active%20Player-red?style=flat-square&labelColor=0d1117)
-![OSCP](https://img.shields.io/badge/Goal-OSCP%20Certified-orange?style=flat-square&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-Web%20App%20Security-blue?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -29,65 +29,67 @@ visitor@github:~$ whoami
 $ cat about.txt
 
 Name      : Rabin Gaire
-Role      : Security Enthusiast  turning a hobby into a career
 Location  : Nepal 🇳🇵
-Learning  : Web App Security | Network Security
-Why MERN  : Understanding how the web works under the hood 
-            not to build apps, but to know what to break
-Mindset   : Depth over breadth. Always.
-Goal      : OSCP  and a career in security in the age of AI
+Role      : Security Enthusiast  turning a deep passion into a career
+Approach  : Depth over breadth. Understand the why, not just the how.
+Why MERN  : Learning how the web is built  to truly understand
+            how it breaks. Developers write the code. I read between the lines.
+Mindset   : If I can't explain it from scratch, I don't know it yet.
+Era       : Building skills that matter in the age of AI.
 ```
 
 ---
 
-### `// current_mission`
-
-| 🎯 Focus | 📌 Details |
-|----------|-----------|
-| 🔴 **CTF Daily** | Root-Me \| HackTheBox \| PortSwigger Labs |
-| 📖 **Security Blogs** | Reading infosec writeups & research papers daily |
-| 🕸️ **Web App Security** | SQLi, XSS, IDOR, SSRF, Auth Bypass  going deep |
-| 🧠 **MERN Stack** | Learning how the web behaves  to understand what to attack |
-| 🏆 **OSCP** | Actively prepping  seeking sponsorship |
-
----
-
-### `// ctf_platforms`
-
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   Root-Me        →  daily challenges, web & sys     │
-│   HackTheBox     →  machines & pro labs             │
-│   PortSwigger    →  web security labs (burp suite)  │
-│                                                     │
-│   Focus          →  Web Exploitation                │
-│                     Linux Privilege Escalation      │
-│                     Network Security                │
-│                     Enumeration & Recon             │
-│                                                     │
-│   Mode           →  Learn by doing. No shortcuts.   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-> 💬 *"Security was a hobby. Now I want to make it my life's work  especially as AI changes everything about how we attack and defend."*
-
----
-
-### `// how_i_learn`
+### `// what_i_do_daily`
 
 ```bash
 $ cat daily_routine.sh
 
 #!/bin/bash
-wake_up
-read_security_blogs        # follow researchers, CVEs, writeups
-solve_ctf_challenge        # root-me / htb / portswigger
-take_notes                 # document everything
-understand_the_why         # never just the how
-repeat
+
+read_security_blogs        # CVEs, researcher writeups, new techniques
+solve_ctf_challenge        # Root-Me | HackTheBox | PortSwigger Labs
+document_findings          # notes, writeups  if it's not written, it didn't happen
+dig_deeper                 # one concept at a time, until it's fully understood
+repeat                     # every single day, no days off
 ```
+
+---
+
+### `// where_i_grind`
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   Root-Me        →  daily web & system challenges        │
+│   HackTheBox     →  machines, pro labs, real scenarios   │
+│   PortSwigger    →  web security labs  burp suite       │
+│                     going through every topic deeply     │
+│                                                          │
+│   Focus Areas    →  Web Exploitation (primary)           │
+│                     Network Security                     │
+│                     Linux Privilege Escalation           │
+│                     Enumeration & Recon                  │
+│                                                          │
+│   Reading        →  security blogs, CVE breakdowns,      │
+│                     researcher twitter, HTB writeups     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+> 💬 *"Security started as a hobby. Every lab I solve, every blog I read, every concept I break down  it's becoming something more. A craft. A career."*
+
+---
+
+### `// current_focus`
+
+| 🎯 Area | 📌 What I'm doing |
+|--------|------------------|
+| 🕸️ **Web App Security** | SQLi, XSS, IDOR, SSRF, Auth Bypass  going deep on each |
+| 📖 **Daily Reading** | Infosec blogs, CVE analysis, real-world breach breakdowns |
+| 🔴 **CTF Practice** | Root-Me, HackTheBox  consistency over intensity |
+| 🧪 **PortSwigger Labs** | Completing labs topic by topic, not skipping fundamentals |
+| 🧠 **MERN Stack** | Understanding how modern web apps are built  to know where they break |
 
 ---
 
@@ -101,7 +103,7 @@ repeat
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
 
-**💻 Web & Development** *(learning the web to understand it, not just build it)*
+**💻 Web & Development** *(understanding the web from the inside out)*
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -129,12 +131,9 @@ repeat
 [████████░░░░░░░░░░░░] ~40%  Linux Privilege Escalation
 [████░░░░░░░░░░░░░░░░] ~20%  Buffer Overflow (x86)
 [██░░░░░░░░░░░░░░░░░░] ~10%  Active Directory Attacks
-```
 
-> 🚨 **Seeking OSCP Sponsorship**
-> I grind labs daily and take this seriously.
-> If you or your company can sponsor my OSCP exam  let's talk.
-> **rabingaire0507@gmail.com**
+Certifications  : OSCP  when the time is right, when the skills are there
+```
 
 ---
 
@@ -157,9 +156,9 @@ repeat
 <div align="center">
 
 ```
-[ OSCP: PENDING ] [ CTF: DAILY ] [ STATUS: GRINDING ] [ ERA: AGE OF AI ]
+[ CTF: DAILY ] [ LABS: GRINDING ] [ BLOGS: READING ] [ SKILLS: BUILDING ]
 ```
 
-*Started as curiosity. Became a passion. Now becoming a career.*
+*Not chasing certifications. Chasing understanding.*
 
 </div>
